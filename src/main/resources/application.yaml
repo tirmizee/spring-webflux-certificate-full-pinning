@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: spring-webflux-certificate-full-pinning
